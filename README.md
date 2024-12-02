@@ -40,8 +40,8 @@ This is a group project with up to 5 members in each group. Please prepare the r
 - KNN: report the optimal K, the selected predictor terms, the cross-validated test error, specificity, and sensitivity (5 pts) <br/> 
 - compare the results and determine the optimal classification model (2 pts) <br/> 
 - based on the outputs of the optimal classification model, comment on the findings regarding the related business/research questions addressed in part I (3 pts) <br/> 
-## Part IV Conclusions and Recommendations (15/100)
+## Part IV Conclusions and Recommendations (15%)
 ### Conclusion (9 pts)
 ### Recommendations for business/research decisions based on the analysis results (6 pts)
-## Part V References (5/100)
+## Part V References (5%)
 This project will be held to the standards of publishable research, so proper citations and formatting are required.

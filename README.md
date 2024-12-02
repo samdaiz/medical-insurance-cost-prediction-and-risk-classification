@@ -21,7 +21,8 @@ EDA (univariate, bivariate, numerical and graphical, with outputs and comments o
 univariate: the outputs (2 pts)? comments on how the data was distributed (1 pt)? any missing values (0.5 pt)? any extreme outliers (0.5 pt)?
 bivariate: the outputs (3 pts)? comments on how one variable is related to the other variable based on the output for each pair of variables (3 pts)?
 data cleaning/preparation based on the above outputs/findings to deal with missing values, outliers, transformed variables, interaction terms etc. (5 pts)
-## Part III Analysis and Findings (50%) - choose the proper techniques for each business question; variable selection & model building with the findings from Part II taken into consideration, compare and contrast the results using the evaluation and validation techniques covered in the course, the findings
+## Part III Analysis and Findings (50%)
+choose the proper techniques for each business question; variable selection & model building with the findings from Part II taken into consideration, compare and contrast the results using the evaluation and validation techniques covered in the course, the findings
 Regression problem using Generalized Regression models (28%)
 proper list of predictor terms with proper original predictors, transformed predictors, and interaction terms (3 pts)
 variable selection using subset selection and shrinkage (5 pts x2), for each, report the results with
